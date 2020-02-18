@@ -30,7 +30,7 @@
     "express": "^4.16.3",
     "mongodb": "^3.0.7",
     "react": "^16.3.2",
-    "react-dom": "^16.3.2",
+    "react-dom": "^16.3.3",
     "react-hot-loader": "^4.1.2"
   },
   "devDependencies": {
